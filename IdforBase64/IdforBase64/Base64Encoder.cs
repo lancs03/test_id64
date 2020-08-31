@@ -112,7 +112,7 @@ namespace IdforBase64
                  '0','1','2','3','4','5','6','7','8','9','+','/'};
 
 
-
+            //vnfsj n
             if ((b >= 0) && (b <= 63))
             {
                 return lookupTable[(int)b];
