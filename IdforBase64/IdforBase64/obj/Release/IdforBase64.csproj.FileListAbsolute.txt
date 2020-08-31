@@ -1,0 +1,13 @@
+E:\VSproject\IdforBase64\IdforBase64\bin\Release\IdforBase64.exe.config
+E:\VSproject\IdforBase64\IdforBase64\bin\Release\IdforBase64.exe
+E:\VSproject\IdforBase64\IdforBase64\bin\Release\IdforBase64.pdb
+E:\VSproject\IdforBase64\IdforBase64\bin\Release\CSkin.dll
+E:\VSproject\IdforBase64\IdforBase64\bin\Release\CSkin.xml
+E:\VSproject\IdforBase64\IdforBase64\obj\Release\IdforBase64.csprojAssemblyReference.cache
+E:\VSproject\IdforBase64\IdforBase64\obj\Release\IdforBase64.Form_Main.resources
+E:\VSproject\IdforBase64\IdforBase64\obj\Release\IdforBase64.Properties.Resources.resources
+E:\VSproject\IdforBase64\IdforBase64\obj\Release\IdforBase64.csproj.GenerateResource.cache
+E:\VSproject\IdforBase64\IdforBase64\obj\Release\IdforBase64.csproj.CoreCompileInputs.cache
+E:\VSproject\IdforBase64\IdforBase64\obj\Release\IdforBase64.csproj.CopyComplete
+E:\VSproject\IdforBase64\IdforBase64\obj\Release\IdforBase64.exe
+E:\VSproject\IdforBase64\IdforBase64\obj\Release\IdforBase64.pdb
