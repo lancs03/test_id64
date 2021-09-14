@@ -113,7 +113,7 @@ namespace IdforBase64
 
 
             //设置上传自己的git
-            //加上防泄密系统的设置
+            //加上防泄密系统的设置20210914
             if ((b >= 0) && (b <= 63))
             {
                 return lookupTable[(int)b];
