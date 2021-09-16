@@ -114,7 +114,7 @@ namespace IdforBase64
 
             //设置上传自己的git
             //加上防泄密系统的设置20210914+用git工具直接测试
-            //查看线程20210916+git-bash+IP限制+git  1608
+            //查看线程20210916+git-bash+IP限制+git  16081614
             if ((b >= 0) && (b <= 63))
             {
                 return lookupTable[(int)b];
